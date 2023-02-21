@@ -1,1 +1,2 @@
-# colorPaletter
+# colorPalette
+
