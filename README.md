@@ -6,7 +6,7 @@
 
 ## Improvements
 
-#### Some thing I would like to work on this project are:
+#### Some things I would like to work on this project are:
     - Making a shadow overlay appear when a mouse hovers over a color.
     - Implamenting a working day and night theme button.
     - Adding the ability to copy the rgb number onto clipboard.   
